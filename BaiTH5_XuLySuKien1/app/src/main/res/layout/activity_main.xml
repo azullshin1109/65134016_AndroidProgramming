@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#007273"
+        android:gravity="center"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tính Toán Các Phép Tính"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:fontFamily="monospace"
+            android:textColor="@color/white"
+
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:padding="5dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="15dp"
+        android:layout_height="50dp">
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Số thứ nhất:"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="@color/material_dynamic_neutral30"
+            />
+        <EditText
+            android:id="@+id/edtso01"
+            android:paddingLeft="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Mời nhập 1 con số!"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:padding="5dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="15dp"
+        android:layout_height="50dp">
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Số thứ hai:"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="@color/material_dynamic_neutral30"
+            />
+        <EditText
+            android:id="@+id/edtso02"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Mời nhập 1 con số!"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:padding="5dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="15dp"
+        android:gravity="center_horizontal"
+        android:layout_height="50dp">
+        <Button
+            android:id="@+id/btncong"
+            android:layout_margin="2dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#3E8F88"
+            android:text="+"
+            android:onClick="XuLyCong"
+            />
+
+        <Button
+            android:id="@+id/btntru"
+            android:layout_margin="2dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#3E8F88"
+            android:text="-"
+            android:onClick="XuLyTru"
+            />
+
+        <Button
+            android:id="@+id/btnnhan"
+            android:layout_margin="2dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#3E8F88"
+            android:text="*"
+            android:onClick="XuLyNhan"
+            />
+
+        <Button
+            android:id="@+id/btnchia"
+            android:layout_margin="2dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#3E8F88"
+            android:text="/"
+            android:onClick="XuLyChia"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:padding="5dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="15dp"
+        android:layout_height="50dp">
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Kết quả là:"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="@color/material_dynamic_neutral30"
+            />
+        <EditText
+            android:id="@+id/edtketqua"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Nơi hiện kết quả!"
+            android:enabled="false"
+            />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#007273"
+        android:gravity="center"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Thái Văn Trung _ 65134016"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:fontFamily="monospace"
+            android:textColor="@color/white"
+
+            />
+    </LinearLayout>
+
+</LinearLayout>
