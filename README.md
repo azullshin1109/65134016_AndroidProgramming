@@ -27,6 +27,16 @@ Mục đích chính là phục vụ việc theo dõi, đánh giá và quản lý
 
 ---
 
+## Bài Thực Hành 7: Xây dựng các tỉnh thành
+
+[MainActivity](https://github.com/azullshin1109/65134016_AndroidProgramming/blob/main/ListView_XayDungCacTinhThanh/app/src/main/java/com/thaivantrung/listview_xaydungcactinhthanh/MainActivity.java) | [Layout](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/ListView_XayDungCacTinhThanh/app/src/main/res/layout)
+
+<p align = "center">
+<img src="images/DemoApp_BaiTH7_XayDungCactinhThanh.jpg" width="25%">
+</p>
+
+---
+
 ## ListView: Danh Sách Vật Liệu
 
 [Chi tiết bài thực hành](https://github.com/azullshin1109/65134016_AndroidProgramming/blob/main/ListView_DSVatLieu/app/src/main/java/com/thaivantrung/listview_dsvatlieu/MainActivity.java)
