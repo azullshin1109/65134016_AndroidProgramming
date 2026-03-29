@@ -15,7 +15,6 @@ Mục đích chính là phục vụ việc theo dõi, đánh giá và quản lý
 <img src="images/DemoApp_BaiTH9_Recyclerview.jpg" width="25%">
 </p>
 
-
 ---
 
 ## Bài Thực Hành 8: Tùy Chỉnh ListView
@@ -34,6 +33,16 @@ Mục đích chính là phục vụ việc theo dõi, đánh giá và quản lý
 
 <p align = "center">
 <img src="images/DemoApp_LV_DSVatLieu2.jpg" width="25%">
+</p>
+
+---
+
+## ListView: Danh Sách Món Ăn
+
+[Chi tiết bài thực hành](https://github.com/azullshin1109/65134016_AndroidProgramming/blob/main/ListView_DanhMucMonAn/app/src/main/java/com/thaivantrung/listview_danhmucmonan/MainActivity.java)
+
+<p align = "center">
+<img src="images/DemoApp_LV_DSMonAn.jpg.jpg" width="25%">
 </p>
 
 ---
