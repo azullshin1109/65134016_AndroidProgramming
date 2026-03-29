@@ -33,7 +33,7 @@ Mục đích chính là phục vụ việc theo dõi, đánh giá và quản lý
 [Chi tiết bài thực hành](https://github.com/azullshin1109/65134016_AndroidProgramming/blob/main/ListView_DSVatLieu/app/src/main/java/com/thaivantrung/listview_dsvatlieu/MainActivity.java)
 
 <p align = "center">
-<img src="images/DemoApp_LV_DSVatLieu.jpg" width="25%">
+<img src="images/DemoApp_LV_DSVatLieu2.jpg" width="25%">
 </p>
 
 ---
