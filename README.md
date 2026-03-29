@@ -42,7 +42,7 @@ Mục đích chính là phục vụ việc theo dõi, đánh giá và quản lý
 [Chi tiết bài thực hành](https://github.com/azullshin1109/65134016_AndroidProgramming/blob/main/ListView_DanhMucMonAn/app/src/main/java/com/thaivantrung/listview_danhmucmonan/MainActivity.java)
 
 <p align = "center">
-<img src="images/DemoApp_LV_DSMonAn.jpg.jpg" width="25%">
+<img src="images/DemoApp_LV_DSMonAn.jpg" width="25%">
 </p>
 
 ---
