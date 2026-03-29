@@ -5,11 +5,23 @@ Nội dung bao gồm bài tập lớn, bài tập nhỏ và các phần thực h
 Mục đích chính là phục vụ việc theo dõi, đánh giá và quản lý tiến độ học tập.
 
 
+
+
+---
+
+## Bài Tập: Đọc Báo
+
+[Chi tiết bài thực hành](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/RSS_DocBao/app/src/main/java/com/thaivantrung/rss_docbao) | [Layout](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/RSS_DocBao/app/src/main/res/layout)
+
+<p align = "center">
+<img src="images/DemoApp_RSS_DocBao.jpg" width="25%">
+</p>
+
 ---
 
 ## Bài Thực Hành 9: Recyclerview
 
-[Chi tiết bài thực hành](https://github.com/azullshin1109/65134016_AndroidProgramming/blob/main/BaiTH9_Recyclerview/app/src/main/java/com/thaivantrung/baith9_recyclerview/MainActivity.java)
+[Chi tiết bài thực hành](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/BaiTH9_Recyclerview/app/src/main/java/com/thaivantrung/baith9_recyclerview) | [Layout](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/BaiTH9_Recyclerview/app/src/main/res/layout)
 
 <p align = "center">
 <img src="images/DemoApp_BaiTH9_Recyclerview.jpg" width="25%">
@@ -19,7 +31,7 @@ Mục đích chính là phục vụ việc theo dõi, đánh giá và quản lý
 
 ## Bài Thực Hành 8: Tùy Chỉnh ListView
 
-[Chi tiết bài thực hành](https://github.com/azullshin1109/65134016_AndroidProgramming/blob/main/BaiTH8_TuyChinhLV/app/src/main/java/com/thaivantrung/baith8_tuychinhlv/MainActivity.java)
+[Chi tiết bài thực hành](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/BaiTH8_TuyChinhLV/app/src/main/java/com/thaivantrung/baith8_tuychinhlv) | [Layout](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/BaiTH8_TuyChinhLV/app/src/main/res/layout)
 
 <p align = "center">
 <img src="images/DemoApp_BaiTH8_TuyChinhLV.jpg" width="25%">
@@ -29,7 +41,7 @@ Mục đích chính là phục vụ việc theo dõi, đánh giá và quản lý
 
 ## Bài Thực Hành 7: Xây dựng các tỉnh thành
 
-[MainActivity](https://github.com/azullshin1109/65134016_AndroidProgramming/blob/main/ListView_XayDungCacTinhThanh/app/src/main/java/com/thaivantrung/listview_xaydungcactinhthanh/MainActivity.java) | [Layout](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/ListView_XayDungCacTinhThanh/app/src/main/res/layout)
+[Chi tiết bài thực hành](https://github.com/azullshin1109/65134016_AndroidProgramming/blob/main/ListView_XayDungCacTinhThanh/app/src/main/java/com/thaivantrung/listview_xaydungcactinhthanh/MainActivity.java) | [Layout](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/ListView_XayDungCacTinhThanh/app/src/main/res/layout)
 
 <p align = "center">
 <img src="images/DemoApp_BaiTH7_XayDungCactinhThanh.jpg" width="25%">
@@ -39,7 +51,7 @@ Mục đích chính là phục vụ việc theo dõi, đánh giá và quản lý
 
 ## ListView: Danh Sách Vật Liệu
 
-[Chi tiết bài thực hành](https://github.com/azullshin1109/65134016_AndroidProgramming/blob/main/ListView_DSVatLieu/app/src/main/java/com/thaivantrung/listview_dsvatlieu/MainActivity.java)
+[Chi tiết bài tập](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/ListView_DSVatLieu/app/src/main/java/com/thaivantrung/listview_dsvatlieu) | [Layout](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/ListView_DSVatLieu/app/src/main/res/layout)
 
 <p align = "center">
 <img src="images/DemoApp_LV_DSVatLieu2.jpg" width="25%">
@@ -49,10 +61,32 @@ Mục đích chính là phục vụ việc theo dõi, đánh giá và quản lý
 
 ## ListView: Danh Sách Món Ăn
 
-[Chi tiết bài thực hành](https://github.com/azullshin1109/65134016_AndroidProgramming/blob/main/ListView_DanhMucMonAn/app/src/main/java/com/thaivantrung/listview_danhmucmonan/MainActivity.java)
+[Chi tiết bài tập](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/ListView_DanhMucMonAn/app/src/main/java/com/thaivantrung/listview_danhmucmonan) | [Layout](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/ListView_DanhMucMonAn/app/src/main/res/layout)
 
 <p align = "center">
 <img src="images/DemoApp_LV_DSMonAn.jpg" width="25%">
 </p>
 
 ---
+
+## Bài Thực Hành 6: Xử lý sự kiện tính tổng
+
+[Chi tiết bài thực hành](https://github.com/azullshin1109/65134016_AndroidProgramming/blob/main/BaiTH6_XuLySuKien_TinhTong/app/src/main/java/com/thaivantrung/baith6_xulysukien_tinhtong/MainActivity.java) | [Layout](https://github.com/azullshin1109/65134016_AndroidProgramming/blob/main/BaiTH6_XuLySuKien_TinhTong/app/src/main/res/layout/activity_main.xml)
+
+<p align = "center">
+<img src="images/DemoApp_BaiTH6_XuLySuKien_TinhTong.jpg" width="25%">
+</p>
+
+---
+
+## Bài Thực Hành 5: Xử lý sự kiện 1
+
+[Chi tiết bài thực hành](https://github.com/azullshin1109/65134016_AndroidProgramming/blob/main/BaiTH5_XuLySuKien1/app/src/main/java/com/thaivantrung/baith5_xulysukien1/MainActivity.java) | [Layout](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/BaiTH5_XuLySuKien1/app/src/main/res/layout)
+
+<p align = "center">
+<img src="images/DemoApp_BaiTH5_XuLySuKien1.jpg" width="25%">
+</p>
+
+---
+
+
