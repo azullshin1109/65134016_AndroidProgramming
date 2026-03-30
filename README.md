@@ -4,8 +4,51 @@
 Nội dung bao gồm bài tập lớn, bài tập nhỏ và các phần thực hành trên lớp.
 Mục đích chính là phục vụ việc theo dõi, đánh giá và quản lý tiến độ học tập.
 
+## *Mục lưu trữ bài tập thực hành:* 
 
+## Bài Thực Hành 13: Thay đổi Fragment
 
+[Chi tiết bài thực hành](https://github.com/azullshin1109/65134016_AndroidProgramming/blob/main/BaiTH13_ThayDoiFragment/app/src/main/java/com/thaivantrung/baith13_thaydoifragment/FooterFragment.java) | [Layout](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/BaiTH13_ThayDoiFragment/app/src/main/res/layout)
+
+<p align="center">
+  <img src="images/DemoApp_BaiTH13_ThayDoiFragment1.jpg" width="25%"/>
+  <img src="images/DemoApp_BaiTH13_ThayDoiFragment2.jpg" width="25%"/>
+  <img src="images/DemoApp_BaiTH13_ThayDoiFragment3.jpg" width="25%"/>
+  <img src="images/DemoApp_BaiTH13_ThayDoiFragment4.jpg" width="25%"/>
+</p>
+
+---
+
+## Bài Thực Hành 12: Fragment Dynamic
+
+[Chi tiết bài thực hành](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/BaiTH12_FragmentDynamic/app/src/main/java/com/thaivantrung/baith12_fragmentdynamic) | [Layout](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/BaiTH12_FragmentDynamic/app/src/main/res/layout)
+
+<p align="center">
+  <img src="images/DemoApp_BaiTH12_FragmentDynamic.jpg" width="25%"/>
+</p>
+
+---
+
+## Bài Thực Hành 11: Fragment
+
+[Chi tiết bài thực hành](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/BaiTH11_FragmentTinh/app/src/main/java/com/thaivantrung/baith11_fragmenttinh) | [Layout](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/BaiTH11_FragmentTinh/app/src/main/res/layout)
+
+<p align="center">
+  <img src="images/DemoApp_BaiTH11_FragmentTinh.jpg" width="25%"/>
+</p>
+
+---
+
+## Bài Thực Hành 10: Ví dụ Intent Đơn Giản
+
+[Chi tiết bài thực hành](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/BaiTH10_ViduIntentDonGian/app/src/main/java/com/thaivantrung/baith10_viduintentdongian) | [Layout](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/BaiTH10_ViduIntentDonGian/app/src/main/res/layout)
+
+<p align="center">
+  <img src="images/DemoAppBaiTH10_ViduIntentDonGian1.jpg" width="25%"/>
+  <img src="images/DemoAppBaiTH10_ViduIntentDonGian2.jpg" width="25%"/>
+</p>
+
+---
 
 ## Bài Thực Hành 9: Recyclerview
 
