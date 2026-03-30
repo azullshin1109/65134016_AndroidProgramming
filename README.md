@@ -11,10 +11,10 @@ Mục đích chính là phục vụ việc theo dõi, đánh giá và quản lý
 [Chi tiết bài thực hành](https://github.com/azullshin1109/65134016_AndroidProgramming/blob/main/BaiTH13_ThayDoiFragment/app/src/main/java/com/thaivantrung/baith13_thaydoifragment/FooterFragment.java) | [Layout](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/BaiTH13_ThayDoiFragment/app/src/main/res/layout)
 
 <p>
-  <img src="./images/DemoApp_BaiTH13_ThayDoiFragment1.jpg" width="25%"/>
-  <img src="./images/DemoApp_BaiTH13_ThayDoiFragment2.jpg" width="25%"/>
-  <img src="./images/DemoApp_BaiTH13_ThayDoiFragment3.jpg" width="25%"/>
-  <img src="./images/DemoApp_BaiTH13_ThayDoiFragment4.jpg" width="25%"/>
+  <img src="./images/DemoApp_BaiTH13_ThayDoiFragment1.jpg" width="20%"/>
+  <img src="./images/DemoApp_BaiTH13_ThayDoiFragment2.jpg" width="20%"/>
+  <img src="./images/DemoApp_BaiTH13_ThayDoiFragment3.jpg" width="20%"/>
+  <img src="./images/DemoApp_BaiTH13_ThayDoiFragment4.jpg" width="20%"/>
 </p>
 
 ---
