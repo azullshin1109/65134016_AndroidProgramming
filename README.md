@@ -7,18 +7,6 @@ Mục đích chính là phục vụ việc theo dõi, đánh giá và quản lý
 
 
 
----
-
-## Bài Tập: Đọc Báo
-
-[Chi tiết bài tập](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/RSS_DocBao/app/src/main/java/com/thaivantrung/rss_docbao) | [Layout](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/RSS_DocBao/app/src/main/res/layout)
-
-<p align = "center">
-<img src="images/DemoApp_RSS_DocBao.jpg" width="25%">
-</p>
-
----
-
 ## Bài Thực Hành 9: Recyclerview
 
 [Chi tiết bài thực hành](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/BaiTH9_Recyclerview/app/src/main/java/com/thaivantrung/baith9_recyclerview) | [Layout](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/BaiTH9_Recyclerview/app/src/main/res/layout)
