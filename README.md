@@ -26,6 +26,7 @@ Mục đích chính là phục vụ việc theo dõi, đánh giá và quản lý
   <img src="./images/DemoApp_BaiThiGiuaKi2.jpg" width="20%"/>
   <img src="./images/DemoApp_BaiThiGiuaKi3.jpg" width="20%"/>
   <img src="./images/DemoApp_BaiThiGiuaKi4.jpg" width="20%"/>
+  <img src="./images/DemoApp_BaiThiGiuaKi5.jpg" width="20%"/>
 </p>
 
 ---
