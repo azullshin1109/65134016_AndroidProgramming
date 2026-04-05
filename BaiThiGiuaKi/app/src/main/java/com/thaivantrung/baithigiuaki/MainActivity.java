@@ -34,6 +34,9 @@ public class MainActivity extends AppCompatActivity {
         else if (v.getId() == R.id.btnbaithuoc) {
             intent = new Intent(this, BaiThuocActivity.class);
         }
+        else if (v.getId() == R.id.btngioithieu) {
+            intent = new Intent(this, GioiThieuActivity.class);
+        }
         if(intent != null){
             startActivity(intent);
         }
