@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".MonAnActivity">
+
+    <com.thaivantrung.baithigiuaki.HeaderView
+        android:id="@+id/viewHeader"
+        android:layout_width="0dp"
+        android:layout_height="160dp"
+        android:layout_marginTop="36dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageAnhDaiDien3"
+        android:layout_width="86dp"
+        android:layout_height="77dp"
+        android:layout_marginStart="68dp"
+        app:layout_constraintBottom_toBottomOf="@+id/viewHeader"
+        app:layout_constraintStart_toStartOf="@+id/viewHeader"
+        app:layout_constraintTop_toTopOf="@+id/viewHeader"
+        app:layout_constraintVertical_bias="0.481"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/txtMonAn"
+        android:layout_width="192dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="20dp"
+        android:text="Món Ăn"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/viewHeader"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.206"
+        app:layout_constraintStart_toEndOf="@+id/imageAnhDaiDien3"
+        app:layout_constraintTop_toTopOf="@+id/viewHeader"
+        app:layout_constraintVertical_bias="0.534" />
+
+    <ListView
+        android:id="@+id/lvDanhSachMonAn"
+        android:layout_width="409dp"
+        android:layout_height="533dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="1dp"
+        android:padding="12dp"
+        android:dividerHeight="12dp"
+        android:clipToPadding="false"
+        android:layout_marginBottom="1dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/viewHeader" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
