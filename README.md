@@ -7,6 +7,16 @@ Mục đích chính là phục vụ việc theo dõi, đánh giá và quản lý
 
 ## *Mục lưu trữ bài tập làm thêm:*
 
+## BottomNavigationBar
+
+<p align = "center">
+  <img src="./images/DemoAppThu_BottomNavigationBarUser.jpg" width="20%"/>
+  <img src="./images/DemoAppThu_BottomNavigationBar.jpg" width="20%"/>
+  
+</p>
+
+---
+
 ## Bài tập ôn Giữa Kì
 
 [Chi tiết bài tập](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/BaiThiGiuaKi/app/src/main/java/com/thaivantrung/baithigiuaki) | [Layout](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/BaiThiGiuaKi/app/src/main/res/layout)
