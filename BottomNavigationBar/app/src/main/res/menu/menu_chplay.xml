@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:id="@+id/nav_trochoi"
+        android:icon="@drawable/icon_sports"
+        android:title="Trò chơi" />
+
+    <item
+        android:id="@+id/nav_ungdung"
+        android:icon="@drawable/icon_viewcozy"
+        android:title="Xếp hạng" />
+
+    <item
+        android:id="@+id/nav_timkiem"
+        android:icon="@drawable/icon_search"
+        android:title="Tìm kiếm" />
+
+    <item
+        android:id="@+id/nav_user"
+        android:icon="@drawable/icon_user"
+        android:title="Người Dùng" />
+</menu>
