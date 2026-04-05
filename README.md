@@ -4,6 +4,41 @@
 Nội dung bao gồm bài tập lớn, bài tập nhỏ và các phần thực hành trên lớp.
 Mục đích chính là phục vụ việc theo dõi, đánh giá và quản lý tiến độ học tập.
 
+
+## *Mục lưu trữ bài tập làm thêm:*
+
+## Bài tập ôn Giữa Kì
+
+[Chi tiết bài tập](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/BaiThiGiuaKi/app/src/main/java/com/thaivantrung/baithigiuaki) | [Layout](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/BaiThiGiuaKi/app/src/main/res/layout)
+
+<p align = "center">
+  <img src="./images/DemoApp_BaiThiGiuaKi.jpg" width="20%"/>
+  <img src="./images/DemoApp_BaiThiGiuaKi2.jpg" width="20%"/>
+  <img src="./images/DemoApp_BaiThiGiuaKi3.jpg" width="20%"/>
+  <img src="./images/DemoApp_BaiThiGiuaKi4.jpg" width="20%"/>
+</p>
+
+---
+## ListView: Danh Sách Vật Liệu
+
+[Chi tiết bài tập](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/ListView_DSVatLieu/app/src/main/java/com/thaivantrung/listview_dsvatlieu) | [Layout](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/ListView_DSVatLieu/app/src/main/res/layout)
+
+<p align = "center">
+<img src="images/DemoApp_LV_DSVatLieu2.jpg" width="25%">
+</p>
+
+---
+
+## ListView: Danh Sách Món Ăn
+
+[Chi tiết bài tập](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/ListView_DanhMucMonAn/app/src/main/java/com/thaivantrung/listview_danhmucmonan) | [Layout](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/ListView_DanhMucMonAn/app/src/main/res/layout)
+
+<p align = "center">
+<img src="images/DemoApp_LV_DSMonAn.jpg" width="25%">
+</p>
+
+---
+
 ## *Mục lưu trữ bài tập thực hành:* 
 
 ## Bài Thực Hành 13: Thay đổi Fragment
@@ -80,25 +115,6 @@ Mục đích chính là phục vụ việc theo dõi, đánh giá và quản lý
 
 ---
 
-## ListView: Danh Sách Vật Liệu
-
-[Chi tiết bài tập](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/ListView_DSVatLieu/app/src/main/java/com/thaivantrung/listview_dsvatlieu) | [Layout](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/ListView_DSVatLieu/app/src/main/res/layout)
-
-<p align = "center">
-<img src="images/DemoApp_LV_DSVatLieu2.jpg" width="25%">
-</p>
-
----
-
-## ListView: Danh Sách Món Ăn
-
-[Chi tiết bài tập](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/ListView_DanhMucMonAn/app/src/main/java/com/thaivantrung/listview_danhmucmonan) | [Layout](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/ListView_DanhMucMonAn/app/src/main/res/layout)
-
-<p align = "center">
-<img src="images/DemoApp_LV_DSMonAn.jpg" width="25%">
-</p>
-
----
 
 ## Bài Thực Hành 6: Xử lý sự kiện tính tổng
 
