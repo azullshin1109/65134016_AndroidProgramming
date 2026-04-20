@@ -4,13 +4,12 @@
 Nội dung bao gồm bài tập lớn, bài tập nhỏ và các phần thực hành trên lớp.
 Mục đích chính là phục vụ việc theo dõi, đánh giá và quản lý tiến độ học tập.
 
-
+## Bài Thi Giữa Kì
 <p align = "center">
-  <img src="./images/" width="30%"/>
-  <img src="./images/" width="30%"/>
-  <img src="./images/" width="30%"/>
-  <img src="./images/" width="30%"/>
-  <img src="./images/" width="30%"/>
+  <img src="./images/DemoApp_BaiGK2.jpg" width="30%"/>
+  <img src="./images/DemoApp_BaiGK22.jpg" width="30%"/>
+  <img src="./images/DemoApp_BaiGK23.jpg" width="30%"/>
+
 </p>
 
 ## *Mục lưu trữ bài tập làm thêm:*
