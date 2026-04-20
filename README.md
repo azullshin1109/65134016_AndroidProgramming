@@ -4,13 +4,6 @@
 Nội dung bao gồm bài tập lớn, bài tập nhỏ và các phần thực hành trên lớp.
 Mục đích chính là phục vụ việc theo dõi, đánh giá và quản lý tiến độ học tập.
 
-## *Bài thi Giữa kì:*
-## Bài Thi Giữa Kì 2
-
-
-[Chi tiết bài tập](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/thigk2_ThaiVanTrung/app/src/main/java/com/thaivantrung/thigk2_thaivantrung) | [Layout](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/thigk2_ThaiVanTrung/app/src/main/res/layout) |
-[Drawable](https://github.com/azullshin1109/65134016_AndroidProgramming/tree/main/thigk2_ThaiVanTrung/app/src/main/res/drawable)
-
 
 <p align = "center">
   <img src="./images/" width="30%"/>
