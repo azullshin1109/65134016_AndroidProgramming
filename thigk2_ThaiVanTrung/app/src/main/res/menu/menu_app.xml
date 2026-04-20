@@ -2,9 +2,17 @@
 <menu xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <item android:title="Item" />
-    <item android:title="Item" />
-    <item android:title="Item" />
-    <item android:title="Item" />
+    <item
+        android:icon="@drawable/icon_home"
+        android:title="Item" />
+    <item
+        android:icon="@android:drawable/arrow_down_float"
+        android:title="Item" />
+    <item
+        android:icon="@android:drawable/arrow_up_float"
+        android:title="Item" />
+    <item
+        android:icon="@android:drawable/btn_dialog"
+        android:title="Item" />
 
 </menu>

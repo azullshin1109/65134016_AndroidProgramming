@@ -1,14 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context=".ChucNang3Fragment">
-
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
-
-</FrameLayout>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent" android:layout_height="wrap_content" android:background="#1B5E20" android:padding="16dp" android:gravity="center">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="⚔️ Danh Nhân Lịch Sử Việt Nam" android:textSize="20sp" android:textStyle="bold" android:textColor="@android:color/white"/>
+    </LinearLayout>
+    <androidx.recyclerview.widget.RecyclerView android:id="@+id/rv_heroes" android:layout_width="match_parent" android:layout_height="match_parent" android:padding="8dp" android:clipToPadding="false"/>
+</LinearLayout>
