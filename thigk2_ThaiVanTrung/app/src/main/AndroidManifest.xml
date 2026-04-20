@@ -14,16 +14,19 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Thigk2_ThaiVanTrung">
         <activity
-            android:name=".ChucNang4Activity"
+            android:name=".ChucNang3Activity"
             android:exported="false" />
         <activity
-            android:name=".ChucNang3Activity"
+            android:name=".ChucNang4Activity"
             android:exported="false" />
         <activity
             android:name=".ChucNang2Activity"
             android:exported="false" />
         <activity
             android:name=".ChucNang1Activity"
+            android:exported="false" />
+        <activity
+            android:name=".SongActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

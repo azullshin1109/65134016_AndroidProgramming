@@ -1,0 +1,11 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:background="#F5F5F5">
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:padding="24dp" android:gravity="center_horizontal">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="💱" android:textSize="64sp" android:layout_marginBottom="8dp" android:layout_marginTop="16dp"/>
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Quy Đổi VND → USD" android:textSize="22sp" android:textStyle="bold" android:textColor="#1565C0" android:layout_marginBottom="32dp"/>
+        <EditText android:id="@+id/et_vnd" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Nhập số tiền (VND)" android:inputType="numberDecimal" android:textSize="18sp" android:padding="12dp" android:background="@android:color/white" android:layout_marginBottom="16dp"/>
+        <Button android:id="@+id/btn_convert" android:layout_width="match_parent" android:layout_height="56dp" android:text="QUY ĐỔI" android:textSize="18sp" android:textStyle="bold" android:layout_marginBottom="24dp" android:backgroundTint="#1565C0"/>
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:background="@android:color/white" android:padding="24dp" android:gravity="center">
+            <TextView android:id="@+id/tv_result" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Kết quả sẽ hiển thị ở đây" android:textSize="18sp" android:gravity="center" android:textColor="#1565C0" android:lineSpacingMultiplier="1.5"/>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

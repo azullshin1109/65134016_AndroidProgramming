@@ -1,0 +1,42 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:background="#F5F5F5">
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:padding="24dp" android:gravity="center_horizontal">
+        <!--  Avatar placeholder  -->
+        <LinearLayout android:layout_width="120dp" android:layout_height="120dp" android:background="#1565C0" android:gravity="center" android:layout_marginBottom="16dp" android:layout_marginTop="16dp">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="TVT" android:textSize="36sp" android:textStyle="bold" android:textColor="@android:color/white"/>
+        </LinearLayout>
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="THÔNG TIN SINH VIÊN" android:textSize="20sp" android:textStyle="bold" android:textColor="#1565C0" android:layout_marginBottom="24dp" android:letterSpacing="0.1"/>
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:background="@android:color/white" android:padding="20dp">
+            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:layout_marginBottom="16dp">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="👤 " android:textSize="16sp"/>
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Họ và Tên" android:textSize="12sp" android:textColor="#999999"/>
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Thái Văn Trung" android:textSize="17sp" android:textStyle="bold" android:textColor="#212121"/>
+                </LinearLayout>
+            </LinearLayout>
+            <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#EEEEEE" android:layout_marginBottom="16dp"/>
+            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:layout_marginBottom="16dp">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="🪪 " android:textSize="16sp"/>
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Mã Số Sinh Viên" android:textSize="12sp" android:textColor="#999999"/>
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="65134016" android:textSize="17sp" android:textStyle="bold" android:textColor="#212121"/>
+                </LinearLayout>
+            </LinearLayout>
+            <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#EEEEEE" android:layout_marginBottom="16dp"/>
+            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:layout_marginBottom="16dp">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="🏫 " android:textSize="16sp"/>
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Tên Lớp" android:textSize="12sp" android:textColor="#999999"/>
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="65.CNTT.2" android:textSize="17sp" android:textStyle="bold" android:textColor="#212121"/>
+                </LinearLayout>
+            </LinearLayout>
+            <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#EEEEEE" android:layout_marginBottom="16dp"/>
+            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="🏠 " android:textSize="16sp"/>
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Địa Chỉ Thường Trú" android:textSize="12sp" android:textColor="#999999"/>
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="[Điền địa chỉ của bạn]" android:textSize="17sp" android:textStyle="bold" android:textColor="#212121"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

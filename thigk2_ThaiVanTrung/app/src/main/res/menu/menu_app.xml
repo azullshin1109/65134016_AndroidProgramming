@@ -1,18 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:android="http://schemas.android.com/apk/res/android">
-
-    <item
-        android:icon="@drawable/icon_home"
-        android:title="Item" />
-    <item
-        android:icon="@android:drawable/arrow_down_float"
-        android:title="Item" />
-    <item
-        android:icon="@android:drawable/arrow_up_float"
-        android:title="Item" />
-    <item
-        android:icon="@android:drawable/btn_dialog"
-        android:title="Item" />
-
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_currency" android:icon="@android:drawable/ic_menu_manage" android:title="Đổi Tiền"/>
+    <item android:id="@+id/nav_songs" android:icon="@android:drawable/ic_media_play" android:title="Ca Khúc"/>
+    <item android:id="@+id/nav_heroes" android:icon="@android:drawable/ic_menu_gallery" android:title="Danh Nhân"/>
+    <item android:id="@+id/nav_profile" android:icon="@android:drawable/ic_menu_myplaces" android:title="Sinh Viên"/>
 </menu>
