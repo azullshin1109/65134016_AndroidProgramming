@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "733457691392",
+    "firebase_url": "https://android-projects-3c77a-default-rtdb.firebaseio.com",
+    "project_id": "android-projects-3c77a",
+    "storage_bucket": "android-projects-3c77a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733457691392:android:f0f4ab067d4a2e8501b9e5",
+        "android_client_info": {
+          "package_name": "com.thaivantrung.quanlychitieu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKxT8fM-02e3ACHgBoCkAi0Wrlm40BGnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
